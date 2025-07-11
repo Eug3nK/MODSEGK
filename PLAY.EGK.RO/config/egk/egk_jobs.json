@@ -1,0 +1,14 @@
+{
+  "thief_job": {
+    "rank": "hot",
+    "permission": "egk.job.hot",
+    "start_hour": 21,
+    "end_hour": 6,
+    "messages": {
+      "success": "&a%player% a primit temporar jobul de ho? pentru &e%minutes% minute.",
+      "already_has": "&c%player% are deja jobul de ho? activ!",
+      "offline": "&cJuc?torul %player% nu este online.",
+      "not_night": "&cJobul de ho? poate fi activat doar între %start%:00 ?i %end%:00."
+    }
+  }
+}
